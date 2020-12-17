@@ -1,5 +1,5 @@
 Git is a version control system! 
-Git is free software!
+Git is free software under the GPL!
 
 ********本文档为38所02项目配电箱说明文档********
 STM32当前程序功能：
